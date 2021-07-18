@@ -6,10 +6,10 @@
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Create a forked copy of this project.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push -u origin `<firstName-lastName>`.
 
 ### Task 2: Minimum Viable Product
@@ -18,8 +18,8 @@ For this project you will use `Test Driven Development` to create a RESTful API 
 
 ## Requirements
 
-- use `jest` and `supertest` to write the tests.
-- Your API must be able to **create** and **delete** a _resource_ of your choosing.
+- use `jest` and `supertest` to write the tests.'
+- Your API must be able to **create** and '**delete** a _resource_ of your choosing.
 - Write a minimum of two tests per route handler.
 
 ### Task 3: Stretch Goals
